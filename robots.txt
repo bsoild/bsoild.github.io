@@ -1,0 +1,4 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://bsoild.github.io/RHJ/sitemap.RHJ.gz
